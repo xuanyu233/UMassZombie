@@ -1,0 +1,97 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "A_AIntent",
+        "samples": [
+          "yes"
+        ],
+        "slots": []
+      },
+      {
+        "name": "A_AYesOrNoIntent",
+        "samples": [
+          "yes",
+          "no"
+        ],
+        "slots": []
+      },
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "B_ANoIntent",
+        "samples": [
+          "two one"
+        ],
+        "slots": []
+      },
+      {
+        "name": "B_AYesIntent",
+        "samples": [
+          "two two"
+        ],
+        "slots": []
+      },
+      {
+        "name": "C_AYesIntent",
+        "samples": [
+          "three"
+        ],
+        "slots": []
+      },
+      {
+        "name": "D_aYesIntent",
+        "samples": [
+          "four"
+        ],
+        "slots": []
+      },
+      {
+        "name": "E_aYesIntent",
+        "samples": [
+          "five"
+        ],
+        "slots": []
+      },
+      {
+        "name": "F_aYesIntent",
+        "samples": [
+          "six"
+        ],
+        "slots": []
+      },
+      {
+        "name": "G_aYesIntent",
+        "samples": [
+          "seven"
+        ],
+        "slots": []
+      },
+      {
+        "name": "H_aYesIntent",
+        "samples": [
+          "eight"
+        ],
+        "slots": []
+      },
+      {
+        "name": "I_aYesIntent",
+        "samples": [
+          "nine"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "umass zombie"
+  }
+}
