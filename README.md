@@ -24,9 +24,11 @@ This is an Amazon Alexa game inspired by Lifeline developed in the HackUMass V, 
 - What we are proud of:
     - We build it ! Yeah !
 
+<!-- - Script Structure: -->
+
 - What problems we encountered:
     - This is the first time we use AWS, Alexa Skills Kit, so we have a lot of time in figuring out how to write functional code, and we spent a lot of time in configuring development environment. So most of the problems come from this part.
-    -
+    - Decision Tree, think of the script is also a challenge for us.
 
 - Future plan:
     - more complicated script
